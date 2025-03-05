@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0324-wiggle-sort-ii) |
+## Math
+|  |
+| ------- |
+| [2649-count-total-number-of-colored-cells](https://github.com/AyishaFarhath11/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 <!---LeetCode Topics End-->
