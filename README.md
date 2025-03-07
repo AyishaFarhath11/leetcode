@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyishaFarhath11/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0226-invert-binary-tree) |
+| [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -78,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0226-invert-binary-tree) |
+## String
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
+## Trie
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
