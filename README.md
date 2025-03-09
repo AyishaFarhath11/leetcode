@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0264-ugly-number-ii) |
+| [0299-bulls-and-cows](https://github.com/AyishaFarhath11/leetcode/tree/master/0299-bulls-and-cows) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyishaFarhath11/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/0214-shortest-palindrome) |
+| [0299-bulls-and-cows](https://github.com/AyishaFarhath11/leetcode/tree/master/0299-bulls-and-cows) |
 | [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyishaFarhath11/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0264-ugly-number-ii) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/AyishaFarhath11/leetcode/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
