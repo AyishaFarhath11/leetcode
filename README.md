@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1139-previous-permutation-with-one-swap](https://github.com/AyishaFarhath11/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyishaFarhath11/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyishaFarhath11/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3483-alternating-groups-ii) |
 ## Divide and Conquer
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0483-smallest-good-base](https://github.com/AyishaFarhath11/leetcode/tree/master/0483-smallest-good-base) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyishaFarhath11/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Number Theory
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/AyishaFarhath11/leetcode/tree/master/0299-bulls-and-cows) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyishaFarhath11/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Backtracking
 |  |
 | ------- |
