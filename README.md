@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1139-previous-permutation-with-one-swap](https://github.com/AyishaFarhath11/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyishaFarhath11/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyishaFarhath11/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyishaFarhath11/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3483-alternating-groups-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0518-coin-change-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 ## Trie
 |  |
 | ------- |
@@ -189,8 +191,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0113-path-sum-ii) |
+| [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3643-zero-array-transformation-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
+## Bitmask
+|  |
+| ------- |
+| [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 <!---LeetCode Topics End-->
