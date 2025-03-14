@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1139-previous-permutation-with-one-swap](https://github.com/AyishaFarhath11/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyishaFarhath11/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyishaFarhath11/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyishaFarhath11/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/AyishaFarhath11/leetcode/tree/master/0483-smallest-good-base) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyishaFarhath11/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyishaFarhath11/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
@@ -199,9 +201,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 ## Bitmask
 |  |
 | ------- |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
+## Segment Tree
+|  |
+| ------- |
+| [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 <!---LeetCode Topics End-->
