@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
 | [0518-coin-change-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0518-coin-change-ii) |
 | [0630-course-schedule-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0630-course-schedule-iii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AyishaFarhath11/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0518-coin-change-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 ## Trie
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0113-path-sum-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 ## Prefix Sum
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/AyishaFarhath11/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyishaFarhath11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 ## Segment Tree
 |  |
@@ -245,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/AyishaFarhath11/leetcode/tree/master/0457-circular-array-loop) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
