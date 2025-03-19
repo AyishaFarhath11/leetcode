@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0630-course-schedule-iii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AyishaFarhath11/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1139-previous-permutation-with-one-swap](https://github.com/AyishaFarhath11/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0630-course-schedule-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0630-course-schedule-iii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AyishaFarhath11/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1139-previous-permutation-with-one-swap](https://github.com/AyishaFarhath11/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/AyishaFarhath11/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/AyishaFarhath11/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/AyishaFarhath11/leetcode/tree/master/0507-perfect-number) |
+| [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0903-implement-rand10-using-rand7](https://github.com/AyishaFarhath11/leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/AyishaFarhath11/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AyishaFarhath11/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/AyishaFarhath11/leetcode/tree/master/0299-bulls-and-cows) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyishaFarhath11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0457-circular-array-loop](https://github.com/AyishaFarhath11/leetcode/tree/master/0457-circular-array-loop) |
+| [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyishaFarhath11/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
