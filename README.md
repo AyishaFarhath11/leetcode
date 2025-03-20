@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyishaFarhath11/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyishaFarhath11/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AyishaFarhath11/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AyishaFarhath11/leetcode/tree/master/2690-house-robber-iv) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyishaFarhath11/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyishaFarhath11/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
@@ -198,15 +200,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/0214-shortest-palindrome) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/0214-shortest-palindrome) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -281,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AyishaFarhath11/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Suffix Array
+|  |
+| ------- |
+| [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
