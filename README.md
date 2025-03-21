@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AyishaFarhath11/leetcode/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/AyishaFarhath11/leetcode/tree/master/0299-bulls-and-cows) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyishaFarhath11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AyishaFarhath11/leetcode/tree/master/0146-lru-cache) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyishaFarhath11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Two Pointers
@@ -290,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AyishaFarhath11/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AyishaFarhath11/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
