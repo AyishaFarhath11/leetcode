@@ -1,16 +1,29 @@
 class StockSpanner {
- Stack<int[]> st;
+  Stack<int[]> st;
+    int ind;
+
     public StockSpanner() {
         st = new Stack<>();
+        ind = -1;
     }
+    
     public int next(int price) {
-        int span = 1;
+        ind++;
+
+        // Pop elements from the stack while top price <= current price
         while (!st.isEmpty() && st.peek()[0] <= price) {
-            span += st.pop()[1];
+            st.pop();
         }
-        st.push(new int[] {price, span});
-        return span;
+
+        // Calculate the span based on the index difference
+        int ans = ind - (st.isEmpty() ? -1 : st.peek()[1]);
+
+        // Push the current price and index to the stack
+        st.push(new int[]{price, ind});
+
+        return ans;
     }
+    
 }
 
 /**
