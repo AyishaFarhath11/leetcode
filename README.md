@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/AyishaFarhath11/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
 ## Quickselect
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyishaFarhath11/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyishaFarhath11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AyishaFarhath11/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0337-house-robber-iii) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -153,12 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0337-house-robber-iii) |
 | [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/AyishaFarhath11/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0226-invert-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AyishaFarhath11/leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -171,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AyishaFarhath11/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0337-house-robber-iii) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
