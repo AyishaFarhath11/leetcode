@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/AyishaFarhath11/leetcode/tree/master/0457-circular-array-loop) |
 | [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
+| [0480-sliding-window-median](https://github.com/AyishaFarhath11/leetcode/tree/master/0480-sliding-window-median) |
 | [0518-coin-change-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0518-coin-change-ii) |
 | [0630-course-schedule-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0630-course-schedule-iii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/AyishaFarhath11/leetcode/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/AyishaFarhath11/leetcode/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/AyishaFarhath11/leetcode/tree/master/0480-sliding-window-median) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/AyishaFarhath11/leetcode/tree/master/0480-sliding-window-median) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyishaFarhath11/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyishaFarhath11/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/AyishaFarhath11/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0264-ugly-number-ii) |
+| [0480-sliding-window-median](https://github.com/AyishaFarhath11/leetcode/tree/master/0480-sliding-window-median) |
 | [0630-course-schedule-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0630-course-schedule-iii) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
