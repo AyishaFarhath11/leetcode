@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AyishaFarhath11/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0337-house-robber-iii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0337-house-robber-iii) |
 | [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AyishaFarhath11/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/AyishaFarhath11/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0226-invert-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AyishaFarhath11/leetcode/tree/master/1036-rotting-oranges) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyishaFarhath11/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AyishaFarhath11/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0337-house-robber-iii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
