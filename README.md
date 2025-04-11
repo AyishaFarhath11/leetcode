@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-generate-random-point-in-a-circle](https://github.com/AyishaFarhath11/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AyishaFarhath11/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AyishaFarhath11/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyishaFarhath11/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -459,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AyishaFarhath11/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
