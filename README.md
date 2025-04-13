@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
 | [0480-sliding-window-median](https://github.com/AyishaFarhath11/leetcode/tree/master/0480-sliding-window-median) |
 | [0518-coin-change-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0518-coin-change-ii) |
+| [0587-erect-the-fence](https://github.com/AyishaFarhath11/leetcode/tree/master/0587-erect-the-fence) |
 | [0630-course-schedule-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0630-course-schedule-iii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AyishaFarhath11/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/AyishaFarhath11/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/AyishaFarhath11/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/AyishaFarhath11/leetcode/tree/master/0507-perfect-number) |
+| [0587-erect-the-fence](https://github.com/AyishaFarhath11/leetcode/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AyishaFarhath11/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/AyishaFarhath11/leetcode/tree/master/0593-valid-square) |
 | [0796-reaching-points](https://github.com/AyishaFarhath11/leetcode/tree/master/0796-reaching-points) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0587-erect-the-fence](https://github.com/AyishaFarhath11/leetcode/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/AyishaFarhath11/leetcode/tree/master/0593-valid-square) |
 | [0915-generate-random-point-in-a-circle](https://github.com/AyishaFarhath11/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 ## Design
