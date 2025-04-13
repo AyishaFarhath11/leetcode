@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/AyishaFarhath11/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/AyishaFarhath11/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/AyishaFarhath11/leetcode/tree/master/0507-perfect-number) |
+| [0592-fraction-addition-and-subtraction](https://github.com/AyishaFarhath11/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/AyishaFarhath11/leetcode/tree/master/0593-valid-square) |
 | [0796-reaching-points](https://github.com/AyishaFarhath11/leetcode/tree/master/0796-reaching-points) |
 | [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0592-fraction-addition-and-subtraction](https://github.com/AyishaFarhath11/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyishaFarhath11/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -481,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0732-my-calendar-iii) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/AyishaFarhath11/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
