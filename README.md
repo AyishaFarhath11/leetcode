@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/AyishaFarhath11/leetcode/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/AyishaFarhath11/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AyishaFarhath11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyishaFarhath11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0483-smallest-good-base](https://github.com/AyishaFarhath11/leetcode/tree/master/0483-smallest-good-base) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/AyishaFarhath11/leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AyishaFarhath11/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0337-house-robber-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/AyishaFarhath11/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0518-coin-change-ii) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0113-path-sum-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/AyishaFarhath11/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 ## Prefix Sum
