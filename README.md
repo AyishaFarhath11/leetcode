@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyishaFarhath11/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0863-sum-of-distances-in-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyishaFarhath11/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-cracking-the-safe](https://github.com/AyishaFarhath11/leetcode/tree/master/0754-cracking-the-safe) |
 | [0794-swim-in-rising-water](https://github.com/AyishaFarhath11/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/AyishaFarhath11/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0863-sum-of-distances-in-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0863-sum-of-distances-in-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1250-longest-common-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AyishaFarhath11/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0754-cracking-the-safe](https://github.com/AyishaFarhath11/leetcode/tree/master/0754-cracking-the-safe) |
 | [0801-is-graph-bipartite](https://github.com/AyishaFarhath11/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0863-sum-of-distances-in-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AyishaFarhath11/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Suffix Array
 |  |
