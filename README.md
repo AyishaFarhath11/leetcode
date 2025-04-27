@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/AyishaFarhath11/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/AyishaFarhath11/leetcode/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/AyishaFarhath11/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0650-2-keys-keyboard](https://github.com/AyishaFarhath11/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0796-reaching-points](https://github.com/AyishaFarhath11/leetcode/tree/master/0796-reaching-points) |
 | [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0903-implement-rand10-using-rand7](https://github.com/AyishaFarhath11/leetcode/tree/master/0903-implement-rand10-using-rand7) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0518-coin-change-ii) |
+| [0650-2-keys-keyboard](https://github.com/AyishaFarhath11/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0863-sum-of-distances-in-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0863-sum-of-distances-in-tree) |
