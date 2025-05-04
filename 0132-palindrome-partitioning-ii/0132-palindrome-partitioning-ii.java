@@ -1,11 +1,23 @@
 class Solution {
     public int minCut(String s) {
         int n=s.length();
-        int [] dp=new int[n];
+        int [] dp=new int[n+1];
         for(int i=0;i<n;i++){
-            dp[i]=-1;
+            dp[i]=0;
         }
-        return f(0,n,s,dp)-1;
+        for(int i=n-1;i>=0;i--){
+             int mincost=Integer.MAX_VALUE;
+     
+        for(int j=i;j<n;j++){
+            if(isPal(i,j,s))
+            {
+                int cost=1+dp[j+1];
+                mincost=Math.min(cost,mincost);
+            }
+        }
+         dp[i]=mincost;
+        }
+        return dp[0]-1;
     }
    
     public static int f(int i, int n, String s,int[] dp){
