@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyishaFarhath11/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/AyishaFarhath11/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AyishaFarhath11/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/AyishaFarhath11/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyishaFarhath11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/AyishaFarhath11/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AyishaFarhath11/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 ## Prefix Sum
 |  |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/AyishaFarhath11/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AyishaFarhath11/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AyishaFarhath11/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/AyishaFarhath11/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyishaFarhath11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AyishaFarhath11/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2998-count-symmetric-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Ordered Set
 |  |
