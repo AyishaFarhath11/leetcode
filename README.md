@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyishaFarhath11/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AyishaFarhath11/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyishaFarhath11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyishaFarhath11/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyishaFarhath11/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AyishaFarhath11/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyishaFarhath11/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/0214-shortest-palindrome) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AyishaFarhath11/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## String Matching
 |  |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AyishaFarhath11/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Heap (Priority Queue)
 |  |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AyishaFarhath11/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AyishaFarhath11/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AyishaFarhath11/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/AyishaFarhath11/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
