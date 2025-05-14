@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyishaFarhath11/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AyishaFarhath11/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0863-sum-of-distances-in-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyishaFarhath11/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyishaFarhath11/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AyishaFarhath11/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyishaFarhath11/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AyishaFarhath11/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/AyishaFarhath11/leetcode/tree/master/0480-sliding-window-median) |
 | [0630-course-schedule-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0630-course-schedule-iii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AyishaFarhath11/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/AyishaFarhath11/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/AyishaFarhath11/leetcode/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0732-my-calendar-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0732-my-calendar-iii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AyishaFarhath11/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/AyishaFarhath11/leetcode/tree/master/0937-online-stock-span) |
 ## Two Pointers
 |  |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AyishaFarhath11/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AyishaFarhath11/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/AyishaFarhath11/leetcode/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
 |  |
@@ -603,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyishaFarhath11/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AyishaFarhath11/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyishaFarhath11/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Iterator
