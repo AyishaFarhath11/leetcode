@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0912-random-pick-with-weight](https://github.com/AyishaFarhath11/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1036-rotting-oranges](https://github.com/AyishaFarhath11/leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyishaFarhath11/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1139-previous-permutation-with-one-swap](https://github.com/AyishaFarhath11/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-reaching-points](https://github.com/AyishaFarhath11/leetcode/tree/master/0796-reaching-points) |
 | [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0903-implement-rand10-using-rand7](https://github.com/AyishaFarhath11/leetcode/tree/master/0903-implement-rand10-using-rand7) |
+| [0912-random-pick-with-weight](https://github.com/AyishaFarhath11/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0915-generate-random-point-in-a-circle](https://github.com/AyishaFarhath11/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [0923-super-egg-drop](https://github.com/AyishaFarhath11/leetcode/tree/master/0923-super-egg-drop) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AyishaFarhath11/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/AyishaFarhath11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyishaFarhath11/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0903-implement-rand10-using-rand7](https://github.com/AyishaFarhath11/leetcode/tree/master/0903-implement-rand10-using-rand7) |
+| [0912-random-pick-with-weight](https://github.com/AyishaFarhath11/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0915-generate-random-point-in-a-circle](https://github.com/AyishaFarhath11/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0732-my-calendar-iii) |
 | [0794-swim-in-rising-water](https://github.com/AyishaFarhath11/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0912-random-pick-with-weight](https://github.com/AyishaFarhath11/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0923-super-egg-drop](https://github.com/AyishaFarhath11/leetcode/tree/master/0923-super-egg-drop) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyishaFarhath11/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0732-my-calendar-iii) |
+| [0912-random-pick-with-weight](https://github.com/AyishaFarhath11/leetcode/tree/master/0912-random-pick-with-weight) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyishaFarhath11/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
