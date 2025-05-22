@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AyishaFarhath11/leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/AyishaFarhath11/leetcode/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/AyishaFarhath11/leetcode/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AyishaFarhath11/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AyishaFarhath11/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/AyishaFarhath11/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/AyishaFarhath11/leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyishaFarhath11/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -676,4 +678,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/AyishaFarhath11/leetcode/tree/master/0464-can-i-win) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AyishaFarhath11/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
