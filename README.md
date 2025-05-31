@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/AyishaFarhath11/leetcode/tree/master/0546-remove-boxes) |
 | [0587-erect-the-fence](https://github.com/AyishaFarhath11/leetcode/tree/master/0587-erect-the-fence) |
 | [0630-course-schedule-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0630-course-schedule-iii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/AyishaFarhath11/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/AyishaFarhath11/leetcode/tree/master/0733-flood-fill) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AyishaFarhath11/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AyishaFarhath11/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/AyishaFarhath11/leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AyishaFarhath11/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/AyishaFarhath11/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/AyishaFarhath11/leetcode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/AyishaFarhath11/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/AyishaFarhath11/leetcode/tree/master/1036-rotting-oranges) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AyishaFarhath11/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyishaFarhath11/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/AyishaFarhath11/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/AyishaFarhath11/leetcode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/AyishaFarhath11/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/AyishaFarhath11/leetcode/tree/master/0801-is-graph-bipartite) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AyishaFarhath11/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/AyishaFarhath11/leetcode/tree/master/0480-sliding-window-median) |
 | [0630-course-schedule-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0630-course-schedule-iii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/AyishaFarhath11/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AyishaFarhath11/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/AyishaFarhath11/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
