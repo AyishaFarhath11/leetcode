@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AyishaFarhath11/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/AyishaFarhath11/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0885-exam-room](https://github.com/AyishaFarhath11/leetcode/tree/master/0885-exam-room) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/AyishaFarhath11/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0732-my-calendar-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AyishaFarhath11/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0885-exam-room](https://github.com/AyishaFarhath11/leetcode/tree/master/0885-exam-room) |
 | [0937-online-stock-span](https://github.com/AyishaFarhath11/leetcode/tree/master/0937-online-stock-span) |
 ## Two Pointers
 |  |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/AyishaFarhath11/leetcode/tree/master/0327-count-of-range-sum) |
 | [0732-my-calendar-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0732-my-calendar-iii) |
+| [0885-exam-room](https://github.com/AyishaFarhath11/leetcode/tree/master/0885-exam-room) |
 ## Simulation
 |  |
 | ------- |
