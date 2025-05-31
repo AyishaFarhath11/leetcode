@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/AyishaFarhath11/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0912-random-pick-with-weight](https://github.com/AyishaFarhath11/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1036-rotting-oranges](https://github.com/AyishaFarhath11/leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyishaFarhath11/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/AyishaFarhath11/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1139-previous-permutation-with-one-swap](https://github.com/AyishaFarhath11/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
 ## Sorting
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0863-sum-of-distances-in-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/AyishaFarhath11/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0923-super-egg-drop](https://github.com/AyishaFarhath11/leetcode/tree/master/0923-super-egg-drop) |
 | [1236-n-th-tribonacci-number](https://github.com/AyishaFarhath11/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/AyishaFarhath11/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/AyishaFarhath11/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/AyishaFarhath11/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyishaFarhath11/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Counting
