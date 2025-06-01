@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/AyishaFarhath11/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1139-previous-permutation-with-one-swap](https://github.com/AyishaFarhath11/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/AyishaFarhath11/leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 ## Sorting
 |  |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/AyishaFarhath11/leetcode/tree/master/0953-reverse-only-letters) |
 | [1129-longest-string-chain](https://github.com/AyishaFarhath11/leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyishaFarhath11/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AyishaFarhath11/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AyishaFarhath11/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0953-reverse-only-letters](https://github.com/AyishaFarhath11/leetcode/tree/master/0953-reverse-only-letters) |
 | [1129-longest-string-chain](https://github.com/AyishaFarhath11/leetcode/tree/master/1129-longest-string-chain) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/AyishaFarhath11/leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyishaFarhath11/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Memoization
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/AyishaFarhath11/leetcode/tree/master/0327-count-of-range-sum) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 ## Merge Sort
 |  |
 | ------- |
