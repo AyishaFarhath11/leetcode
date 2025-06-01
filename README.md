@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/AyishaFarhath11/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyishaFarhath11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2330-maximum-total-beauty-of-the-gardens](https://github.com/AyishaFarhath11/leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2478-longest-nice-subarray](https://github.com/AyishaFarhath11/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyishaFarhath11/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyishaFarhath11/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/AyishaFarhath11/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1139-previous-permutation-with-one-swap](https://github.com/AyishaFarhath11/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
+| [2330-maximum-total-beauty-of-the-gardens](https://github.com/AyishaFarhath11/leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/AyishaFarhath11/leetcode/tree/master/1129-longest-string-chain) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
+| [2330-maximum-total-beauty-of-the-gardens](https://github.com/AyishaFarhath11/leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyishaFarhath11/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Quickselect
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyishaFarhath11/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
+| [2330-maximum-total-beauty-of-the-gardens](https://github.com/AyishaFarhath11/leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyishaFarhath11/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AyishaFarhath11/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AyishaFarhath11/leetcode/tree/master/2690-house-robber-iv) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0732-my-calendar-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0732-my-calendar-iii) |
 | [0912-random-pick-with-weight](https://github.com/AyishaFarhath11/leetcode/tree/master/0912-random-pick-with-weight) |
+| [2330-maximum-total-beauty-of-the-gardens](https://github.com/AyishaFarhath11/leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyishaFarhath11/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
@@ -574,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AyishaFarhath11/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0953-reverse-only-letters](https://github.com/AyishaFarhath11/leetcode/tree/master/0953-reverse-only-letters) |
 | [1129-longest-string-chain](https://github.com/AyishaFarhath11/leetcode/tree/master/1129-longest-string-chain) |
+| [2330-maximum-total-beauty-of-the-gardens](https://github.com/AyishaFarhath11/leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyishaFarhath11/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Memoization
 |  |
@@ -670,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AyishaFarhath11/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [2330-maximum-total-beauty-of-the-gardens](https://github.com/AyishaFarhath11/leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2998-count-symmetric-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Ordered Set
 |  |
