@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/AyishaFarhath11/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0912-random-pick-with-weight](https://github.com/AyishaFarhath11/leetcode/tree/master/0912-random-pick-with-weight) |
+| [0980-find-the-shortest-superstring](https://github.com/AyishaFarhath11/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1036-rotting-oranges](https://github.com/AyishaFarhath11/leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyishaFarhath11/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/AyishaFarhath11/leetcode/tree/master/1129-longest-string-chain) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0953-reverse-only-letters](https://github.com/AyishaFarhath11/leetcode/tree/master/0953-reverse-only-letters) |
+| [0980-find-the-shortest-superstring](https://github.com/AyishaFarhath11/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1129-longest-string-chain](https://github.com/AyishaFarhath11/leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/AyishaFarhath11/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0923-super-egg-drop](https://github.com/AyishaFarhath11/leetcode/tree/master/0923-super-egg-drop) |
+| [0980-find-the-shortest-superstring](https://github.com/AyishaFarhath11/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1129-longest-string-chain](https://github.com/AyishaFarhath11/leetcode/tree/master/1129-longest-string-chain) |
 | [1236-n-th-tribonacci-number](https://github.com/AyishaFarhath11/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/AyishaFarhath11/leetcode/tree/master/0638-shopping-offers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AyishaFarhath11/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0980-find-the-shortest-superstring](https://github.com/AyishaFarhath11/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/AyishaFarhath11/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AyishaFarhath11/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/AyishaFarhath11/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/AyishaFarhath11/leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0980-find-the-shortest-superstring](https://github.com/AyishaFarhath11/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/AyishaFarhath11/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 ## Segment Tree
