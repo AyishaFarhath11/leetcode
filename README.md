@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/AyishaFarhath11/leetcode/tree/master/0546-remove-boxes) |
 | [0587-erect-the-fence](https://github.com/AyishaFarhath11/leetcode/tree/master/0587-erect-the-fence) |
 | [0630-course-schedule-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0630-course-schedule-iii) |
+| [0638-shopping-offers](https://github.com/AyishaFarhath11/leetcode/tree/master/0638-shopping-offers) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/AyishaFarhath11/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/AyishaFarhath11/leetcode/tree/master/0733-flood-fill) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/AyishaFarhath11/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0546-remove-boxes](https://github.com/AyishaFarhath11/leetcode/tree/master/0546-remove-boxes) |
+| [0638-shopping-offers](https://github.com/AyishaFarhath11/leetcode/tree/master/0638-shopping-offers) |
 | [0639-decode-ways-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0639-decode-ways-ii) |
 | [0650-2-keys-keyboard](https://github.com/AyishaFarhath11/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0113-path-sum-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AyishaFarhath11/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0526-beautiful-arrangement](https://github.com/AyishaFarhath11/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/AyishaFarhath11/leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AyishaFarhath11/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AyishaFarhath11/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0464-can-i-win](https://github.com/AyishaFarhath11/leetcode/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/AyishaFarhath11/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/AyishaFarhath11/leetcode/tree/master/0638-shopping-offers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AyishaFarhath11/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/AyishaFarhath11/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/AyishaFarhath11/leetcode/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/AyishaFarhath11/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/AyishaFarhath11/leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/AyishaFarhath11/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
@@ -596,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AyishaFarhath11/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0464-can-i-win](https://github.com/AyishaFarhath11/leetcode/tree/master/0464-can-i-win) |
 | [0546-remove-boxes](https://github.com/AyishaFarhath11/leetcode/tree/master/0546-remove-boxes) |
+| [0638-shopping-offers](https://github.com/AyishaFarhath11/leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1236-n-th-tribonacci-number](https://github.com/AyishaFarhath11/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Queue
