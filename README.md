@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/1240-stone-game-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyishaFarhath11/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/AyishaFarhath11/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1638-best-position-for-a-service-centre](https://github.com/AyishaFarhath11/leetcode/tree/master/1638-best-position-for-a-service-centre) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AyishaFarhath11/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/AyishaFarhath11/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/1240-stone-game-ii) |
 | [1260-day-of-the-year](https://github.com/AyishaFarhath11/leetcode/tree/master/1260-day-of-the-year) |
+| [1638-best-position-for-a-service-centre](https://github.com/AyishaFarhath11/leetcode/tree/master/1638-best-position-for-a-service-centre) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AyishaFarhath11/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AyishaFarhath11/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AyishaFarhath11/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-implement-rand10-using-rand7](https://github.com/AyishaFarhath11/leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/AyishaFarhath11/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0915-generate-random-point-in-a-circle](https://github.com/AyishaFarhath11/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
+| [1638-best-position-for-a-service-centre](https://github.com/AyishaFarhath11/leetcode/tree/master/1638-best-position-for-a-service-centre) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/AyishaFarhath11/leetcode/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/AyishaFarhath11/leetcode/tree/master/0593-valid-square) |
 | [0915-generate-random-point-in-a-circle](https://github.com/AyishaFarhath11/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
+| [1638-best-position-for-a-service-centre](https://github.com/AyishaFarhath11/leetcode/tree/master/1638-best-position-for-a-service-centre) |
 ## Design
 |  |
 | ------- |
