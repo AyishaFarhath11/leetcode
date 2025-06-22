@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-generate-random-point-in-a-circle](https://github.com/AyishaFarhath11/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [0923-super-egg-drop](https://github.com/AyishaFarhath11/leetcode/tree/master/0923-super-egg-drop) |
 | [1236-n-th-tribonacci-number](https://github.com/AyishaFarhath11/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1260-day-of-the-year](https://github.com/AyishaFarhath11/leetcode/tree/master/1260-day-of-the-year) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AyishaFarhath11/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AyishaFarhath11/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AyishaFarhath11/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/AyishaFarhath11/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1129-longest-string-chain](https://github.com/AyishaFarhath11/leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1260-day-of-the-year](https://github.com/AyishaFarhath11/leetcode/tree/master/1260-day-of-the-year) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyishaFarhath11/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AyishaFarhath11/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
