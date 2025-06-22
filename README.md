@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/AyishaFarhath11/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1638-best-position-for-a-service-centre](https://github.com/AyishaFarhath11/leetcode/tree/master/1638-best-position-for-a-service-centre) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [1685-stone-game-v](https://github.com/AyishaFarhath11/leetcode/tree/master/1685-stone-game-v) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AyishaFarhath11/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/AyishaFarhath11/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/1240-stone-game-ii) |
 | [1260-day-of-the-year](https://github.com/AyishaFarhath11/leetcode/tree/master/1260-day-of-the-year) |
 | [1638-best-position-for-a-service-centre](https://github.com/AyishaFarhath11/leetcode/tree/master/1638-best-position-for-a-service-centre) |
+| [1685-stone-game-v](https://github.com/AyishaFarhath11/leetcode/tree/master/1685-stone-game-v) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AyishaFarhath11/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AyishaFarhath11/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AyishaFarhath11/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/AyishaFarhath11/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1685-stone-game-v](https://github.com/AyishaFarhath11/leetcode/tree/master/1685-stone-game-v) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AyishaFarhath11/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Trie
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/AyishaFarhath11/leetcode/tree/master/0464-can-i-win) |
 | [1240-stone-game-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/1240-stone-game-ii) |
+| [1685-stone-game-v](https://github.com/AyishaFarhath11/leetcode/tree/master/1685-stone-game-v) |
 ## Combinatorics
 |  |
 | ------- |
