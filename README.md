@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/AyishaFarhath11/leetcode/tree/master/1129-longest-string-chain) |
 | [1139-previous-permutation-with-one-swap](https://github.com/AyishaFarhath11/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
+| [1240-stone-game-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/1240-stone-game-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyishaFarhath11/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/AyishaFarhath11/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-generate-random-point-in-a-circle](https://github.com/AyishaFarhath11/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [0923-super-egg-drop](https://github.com/AyishaFarhath11/leetcode/tree/master/0923-super-egg-drop) |
 | [1236-n-th-tribonacci-number](https://github.com/AyishaFarhath11/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/1240-stone-game-ii) |
 | [1260-day-of-the-year](https://github.com/AyishaFarhath11/leetcode/tree/master/1260-day-of-the-year) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AyishaFarhath11/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AyishaFarhath11/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/AyishaFarhath11/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1129-longest-string-chain](https://github.com/AyishaFarhath11/leetcode/tree/master/1129-longest-string-chain) |
 | [1236-n-th-tribonacci-number](https://github.com/AyishaFarhath11/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/AyishaFarhath11/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0732-my-calendar-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0732-my-calendar-iii) |
 | [0912-random-pick-with-weight](https://github.com/AyishaFarhath11/leetcode/tree/master/0912-random-pick-with-weight) |
+| [1240-stone-game-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/1240-stone-game-ii) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/AyishaFarhath11/leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyishaFarhath11/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/AyishaFarhath11/leetcode/tree/master/0464-can-i-win) |
+| [1240-stone-game-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/1240-stone-game-ii) |
 ## Combinatorics
 |  |
 | ------- |
