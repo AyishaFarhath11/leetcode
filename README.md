@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/AyishaFarhath11/leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/AyishaFarhath11/leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3692-shortest-matching-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3692-shortest-matching-substring) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/AyishaFarhath11/leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3692-shortest-matching-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3692-shortest-matching-substring) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/AyishaFarhath11/leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
