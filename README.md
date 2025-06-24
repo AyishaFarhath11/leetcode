@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/AyishaFarhath11/leetcode/tree/master/2690-house-robber-iv) |
 | [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3692-shortest-matching-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3692-shortest-matching-substring) |
 ## Number Theory
 |  |
 | ------- |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
+| [3692-shortest-matching-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3692-shortest-matching-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
+| [3692-shortest-matching-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3692-shortest-matching-substring) |
 ## Hash Function
 |  |
 | ------- |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/AyishaFarhath11/leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyishaFarhath11/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3692-shortest-matching-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3692-shortest-matching-substring) |
 ## Memoization
 |  |
 | ------- |
