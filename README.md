@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AyishaFarhath11/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyishaFarhath11/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyishaFarhath11/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AyishaFarhath11/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AyishaFarhath11/leetcode/tree/master/2690-house-robber-iv) |
+| [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AyishaFarhath11/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyishaFarhath11/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Dynamic Programming
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-stone-game-v](https://github.com/AyishaFarhath11/leetcode/tree/master/1685-stone-game-v) |
 | [1758-distribute-repeating-integers](https://github.com/AyishaFarhath11/leetcode/tree/master/1758-distribute-repeating-integers) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/AyishaFarhath11/leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 ## Trie
 |  |
 | ------- |
@@ -482,11 +486,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/0214-shortest-palindrome) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AyishaFarhath11/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
+| [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/0214-shortest-palindrome) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
+| [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Hash Function
 |  |
@@ -495,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AyishaFarhath11/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
+| [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -582,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/AyishaFarhath11/leetcode/tree/master/0327-count-of-range-sum) |
 | [0732-my-calendar-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0732-my-calendar-iii) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [3557-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3557-minimum-number-of-valid-strings-to-form-target-ii) |
 ## Geometry
 |  |
 | ------- |
