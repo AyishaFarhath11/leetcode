@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyishaFarhath11/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/0214-shortest-palindrome) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/AyishaFarhath11/leetcode/tree/master/2326-sum-of-scores-of-built-strings) |
+| [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/AyishaFarhath11/leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Hash Function
 |  |
 | ------- |
