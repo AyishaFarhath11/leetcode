@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-binary-trees-with-factors](https://github.com/AyishaFarhath11/leetcode/tree/master/0843-binary-trees-with-factors) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/AyishaFarhath11/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0911-profitable-schemes](https://github.com/AyishaFarhath11/leetcode/tree/master/0911-profitable-schemes) |
 | [0912-random-pick-with-weight](https://github.com/AyishaFarhath11/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0980-find-the-shortest-superstring](https://github.com/AyishaFarhath11/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1022-unique-paths-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/1022-unique-paths-iii) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AyishaFarhath11/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/AyishaFarhath11/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0911-profitable-schemes](https://github.com/AyishaFarhath11/leetcode/tree/master/0911-profitable-schemes) |
 | [0923-super-egg-drop](https://github.com/AyishaFarhath11/leetcode/tree/master/0923-super-egg-drop) |
 | [0980-find-the-shortest-superstring](https://github.com/AyishaFarhath11/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1129-longest-string-chain](https://github.com/AyishaFarhath11/leetcode/tree/master/1129-longest-string-chain) |
