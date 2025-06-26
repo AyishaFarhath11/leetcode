@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/AyishaFarhath11/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyishaFarhath11/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/AyishaFarhath11/leetcode/tree/master/0733-flood-fill) |
+| [0753-open-the-lock](https://github.com/AyishaFarhath11/leetcode/tree/master/0753-open-the-lock) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AyishaFarhath11/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/AyishaFarhath11/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AyishaFarhath11/leetcode/tree/master/0480-sliding-window-median) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyishaFarhath11/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0753-open-the-lock](https://github.com/AyishaFarhath11/leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/AyishaFarhath11/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/AyishaFarhath11/leetcode/tree/master/0733-flood-fill) |
+| [0753-open-the-lock](https://github.com/AyishaFarhath11/leetcode/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/AyishaFarhath11/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/AyishaFarhath11/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AyishaFarhath11/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0639-decode-ways-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0639-decode-ways-ii) |
+| [0753-open-the-lock](https://github.com/AyishaFarhath11/leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0953-reverse-only-letters](https://github.com/AyishaFarhath11/leetcode/tree/master/0953-reverse-only-letters) |
