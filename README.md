@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AyishaFarhath11/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0843-binary-trees-with-factors](https://github.com/AyishaFarhath11/leetcode/tree/master/0843-binary-trees-with-factors) |
+| [0869-similar-string-groups](https://github.com/AyishaFarhath11/leetcode/tree/master/0869-similar-string-groups) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AyishaFarhath11/leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/AyishaFarhath11/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0911-profitable-schemes](https://github.com/AyishaFarhath11/leetcode/tree/master/0911-profitable-schemes) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AyishaFarhath11/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0843-binary-trees-with-factors](https://github.com/AyishaFarhath11/leetcode/tree/master/0843-binary-trees-with-factors) |
+| [0869-similar-string-groups](https://github.com/AyishaFarhath11/leetcode/tree/master/0869-similar-string-groups) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/AyishaFarhath11/leetcode/tree/master/1129-longest-string-chain) |
 | [1140-distant-barcodes](https://github.com/AyishaFarhath11/leetcode/tree/master/1140-distant-barcodes) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/AyishaFarhath11/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0869-similar-string-groups](https://github.com/AyishaFarhath11/leetcode/tree/master/0869-similar-string-groups) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/AyishaFarhath11/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/AyishaFarhath11/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/AyishaFarhath11/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0869-similar-string-groups](https://github.com/AyishaFarhath11/leetcode/tree/master/0869-similar-string-groups) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AyishaFarhath11/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AyishaFarhath11/leetcode/tree/master/1036-rotting-oranges) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/AyishaFarhath11/leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/AyishaFarhath11/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0869-similar-string-groups](https://github.com/AyishaFarhath11/leetcode/tree/master/0869-similar-string-groups) |
 | [0953-reverse-only-letters](https://github.com/AyishaFarhath11/leetcode/tree/master/0953-reverse-only-letters) |
 | [0980-find-the-shortest-superstring](https://github.com/AyishaFarhath11/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1129-longest-string-chain](https://github.com/AyishaFarhath11/leetcode/tree/master/1129-longest-string-chain) |
@@ -672,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AyishaFarhath11/leetcode/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/AyishaFarhath11/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/AyishaFarhath11/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0869-similar-string-groups](https://github.com/AyishaFarhath11/leetcode/tree/master/0869-similar-string-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyishaFarhath11/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AyishaFarhath11/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
