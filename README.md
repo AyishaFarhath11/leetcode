@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/AyishaFarhath11/leetcode/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/AyishaFarhath11/leetcode/tree/master/0480-sliding-window-median) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyishaFarhath11/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0753-open-the-lock](https://github.com/AyishaFarhath11/leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0778-reorganize-string) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/AyishaFarhath11/leetcode/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AyishaFarhath11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AyishaFarhath11/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0639-decode-ways-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0639-decode-ways-ii) |
 | [0753-open-the-lock](https://github.com/AyishaFarhath11/leetcode/tree/master/0753-open-the-lock) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/AyishaFarhath11/leetcode/tree/master/0480-sliding-window-median) |
+| [0567-permutation-in-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyishaFarhath11/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyishaFarhath11/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/AyishaFarhath11/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AyishaFarhath11/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0457-circular-array-loop](https://github.com/AyishaFarhath11/leetcode/tree/master/0457-circular-array-loop) |
+| [0567-permutation-in-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/AyishaFarhath11/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyishaFarhath11/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AyishaFarhath11/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
