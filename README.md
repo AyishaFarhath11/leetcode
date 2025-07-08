@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyishaFarhath11/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/AyishaFarhath11/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/AyishaFarhath11/leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/AyishaFarhath11/leetcode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/AyishaFarhath11/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyishaFarhath11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/AyishaFarhath11/leetcode/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AyishaFarhath11/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0630-course-schedule-iii](https://github.com/AyishaFarhath11/leetcode/tree/master/0630-course-schedule-iii) |
