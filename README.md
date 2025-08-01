@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0126-word-ladder-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/AyishaFarhath11/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AyishaFarhath11/leetcode/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/AyishaFarhath11/leetcode/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AyishaFarhath11/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/AyishaFarhath11/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0457-circular-array-loop](https://github.com/AyishaFarhath11/leetcode/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/AyishaFarhath11/leetcode/tree/master/0567-permutation-in-string) |
